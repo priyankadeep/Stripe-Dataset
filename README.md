@@ -1,5 +1,6 @@
 # Stripe Dataset
 Stripe Connect Payout Analysis
+
 Goal Analyze payout behavior for Stripe Connect platforms, then estimate:
 1. Payouts to each country on Jan 1, 2019.
 2. Typical daily payout volume in 2019 from three industries under a given platform count scenario.
